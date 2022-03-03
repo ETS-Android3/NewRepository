@@ -1,5 +1,6 @@
 Первая строка.
 Четвёртая строка.
+Пятая строка.
 [**THE CHANGELOG OF FURTHER VERSIONS (STARTING WITH 1.4.0) IS MAINTAINED WITH GITHUB RELEASES AND CAN BE FOUND HERE**](https://github.com/react-native-community/react-native-camera/releases)
 
 
